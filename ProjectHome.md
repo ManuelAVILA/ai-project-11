@@ -1,0 +1,1 @@
+Project for AI January project
